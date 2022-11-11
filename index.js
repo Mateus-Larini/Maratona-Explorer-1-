@@ -48,3 +48,5 @@ function fazerPergunta(){
 }
 
 let lastTimeout = null;
+
+console.log("Conferindo atualização da branch")
